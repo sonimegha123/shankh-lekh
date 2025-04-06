@@ -7,7 +7,7 @@ Just upload an audio file (like a recording of a talk), and ShankhLekh will:
 - Let you view and download both the transcript and summary in a clean web interface powered by Streamlit.
 
 1. Clone the repository
-git clone https://github.com/sonimegha123/shankhlekh.git
+git clone https://github.com/sonimegha123/shankh-lekh.git
 cd shankhlekh
 
 3. Set up the virtual environment
